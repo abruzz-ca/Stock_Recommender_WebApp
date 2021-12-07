@@ -40,8 +40,8 @@ The stock recommender is built using a random forest algorithm from sklearn.
 
 The recommendations are explained using the SHAP library. 
 
-The web app was developed using [Streamlit](https://streamlit.io/)
+The web app is developed and deployed using [Streamlit.](https://streamlit.io/)
 
 Follow the instructions on the Streamlit website to download the library and run the web app script.
 
-Enjoy!
+## Enjoy!
